@@ -17,6 +17,10 @@ By tracking costs and identifying potential overruns early, project managers can
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Agile methodology can be referred to as a methodology which involve arrangement of a project.... it's like a arrangement of a brick and waterfall is the arrangement of a certain project using certain methodology using step by step method... its like arrangement of puzzles.
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Developing a new mobile app: User preferences can shift rapidly, and Agile allows for incorporating feedback throughout the process.   
+Creating a website with dynamic content: Agile enables frequent updates and changes to the site's features.
+Software development for startups: Startups often need to pivot quickly, and Agile supports this flexibility.   
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
